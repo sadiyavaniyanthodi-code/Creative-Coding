@@ -10,26 +10,37 @@ Alternate real-time clock visualisation in animated neon, particles and interact
 Techniques:
 
 -Real-time data
+
 -Animation
+
 -Rotation and transformation
+
 -User interaction
--Experiment 2.Rainy Garden
+
+Experiment 2.Rainy Garden
 
 A procedural landscape scene with animated rain, mountains, trees, flowers and lighting effects.
 
 Techniques:
 
 -Procedural generation
+
 -Particle systems
+
 -Environmental animation
+
 -Layered composition
--Experiment 3.One Key Battle
+
+Experiment 3.One Key Battle
 
 A competitive game for two players, featuring particle effects, sound integration and visual feedback.
 
 Techniques:
 
 -Interaction design
+
 -Game mechanics
+
 -Sound integration
+
 -Particle systems
