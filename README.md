@@ -8,6 +8,7 @@ Experiment 1.Real Time Clock
 Alternate real-time clock visualisation in animated neon, particles and interactive theme switch.
 
 Techniques:
+
 -Real-time data
 -Animation
 -Rotation and transformation
@@ -17,6 +18,7 @@ Techniques:
 A procedural landscape scene with animated rain, mountains, trees, flowers and lighting effects.
 
 Techniques:
+
 -Procedural generation
 -Particle systems
 -Environmental animation
@@ -26,6 +28,7 @@ Techniques:
 A competitive game for two players, featuring particle effects, sound integration and visual feedback.
 
 Techniques:
+
 -Interaction design
 -Game mechanics
 -Sound integration
